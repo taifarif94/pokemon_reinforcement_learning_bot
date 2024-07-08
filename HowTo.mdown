@@ -1,0 +1,8 @@
+##Import Statement
+  
+  from mahad.mahadAgent import MahadAgent
+
+##Initialization
+   MahadAgent("name")
+  
+ 
